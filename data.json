@@ -1,0 +1,1882 @@
+[
+ {
+  "key": "EWT-4012",
+  "num": "4012",
+  "summary": "Android: Filtre ve Sıralama Deneyimi UAT II",
+  "status": "Review",
+  "cat": "In Progress",
+  "type": "Android",
+  "labels": [
+   "2026Roadmap",
+   "Haziran"
+  ],
+  "duedate": "2026-06-19",
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3950",
+  "num": "3950",
+  "summary": "Checkout / Ödeme Sayfası Terk Anketi Entegrasyonu",
+  "status": "UAT",
+  "cat": "In Progress",
+  "type": "Android",
+  "labels": [
+   "CRM"
+  ],
+  "duedate": "2026-06-12",
+  "resolutiondate": null,
+  "priority": "Medium",
+  "assignee": "Şitaberk Karali",
+  "sprint_count": 2,
+  "sprint_states": [
+   "closed",
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 09062026",
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3674",
+  "num": "3674",
+  "summary": "Android: Filtreleme Sorunu",
+  "status": "Block",
+  "cat": "To Do",
+  "type": "Android",
+  "labels": [
+   "2026Roadmap",
+   "Haziran"
+  ],
+  "duedate": "2026-06-04",
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Fahri Furkan İlgen",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3662",
+  "num": "3662",
+  "summary": "Android: Filtre ve Sıralama UX/UI Redesign",
+  "status": "UAT",
+  "cat": "In Progress",
+  "type": "Android",
+  "labels": [
+   "2026Roadmap",
+   "Haziran"
+  ],
+  "duedate": "2026-05-17",
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 7,
+  "sprint_states": [
+   "closed",
+   "closed",
+   "closed",
+   "active",
+   "closed",
+   "closed",
+   "closed"
+  ],
+  "sprint_names": [
+   "SPRINT 26052026",
+   "SPRINT 02062026",
+   "SPRINT 09062026",
+   "SPRINT 16062026",
+   "SPRINT 05052026",
+   "SPRINT 12052026",
+   "SPRINT 19052026"
+  ]
+ },
+ {
+  "key": "EWT-2402",
+  "num": "2402",
+  "summary": "Android: Skechers x Personaclick Checklist ",
+  "status": "Review",
+  "cat": "In Progress",
+  "type": "Android",
+  "labels": [
+   "Backlog",
+   "Haziran"
+  ],
+  "duedate": "2026-05-22",
+  "resolutiondate": null,
+  "priority": "High",
+  "assignee": "Fahri Furkan İlgen",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-588",
+  "num": "588",
+  "summary": "QR Ödeme | Android",
+  "status": "UAT",
+  "cat": "In Progress",
+  "type": "Android",
+  "labels": [
+   "2026Roadmap",
+   "Nisan",
+   "Sync"
+  ],
+  "duedate": "2026-02-27",
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "burak selcuk",
+  "sprint_count": 18,
+  "sprint_states": [
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "active",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed"
+  ],
+  "sprint_names": [
+   "SPRINT 21042026",
+   "SPRINT 26052026",
+   "SPRINT 02062026",
+   "SPRINT 09062026",
+   "SPRINT 23022026",
+   "SPRINT 23092025",
+   "SPRINT 30092025",
+   "SPRINT 07102025",
+   "SPRINT 16062026",
+   "SPRINT 09032026",
+   "SPRINT 23032026",
+   "SPRINT 30032026",
+   "SPRINT 07042026",
+   "SPRINT 13042026",
+   "SPRINT 28042026",
+   "SPRINT 05052026",
+   "SPRINT 12052026",
+   "SPRINT 19052026"
+  ]
+ },
+ {
+  "key": "EWT-3855",
+  "num": "3855",
+  "summary": "[Skechers APP] Web Extend / Emarsys - Android Payload Tutarsızlıkları",
+  "status": "Done",
+  "cat": "Done",
+  "type": "Android",
+  "labels": [
+   "2026Ondemand",
+   "Bug",
+   "CRM"
+  ],
+  "duedate": "2026-06-19",
+  "resolutiondate": "2026-06-19",
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3924",
+  "num": "3924",
+  "summary": "Android: Meta CAPI Test Event Code",
+  "status": "Ready for Ship",
+  "cat": "Done",
+  "type": "Android",
+  "labels": [
+   "2026Ondemand",
+   "Haziran"
+  ],
+  "duedate": "2026-06-04",
+  "resolutiondate": "2026-06-19",
+  "priority": "Medium",
+  "assignee": "Fahri Furkan İlgen",
+  "sprint_count": 3,
+  "sprint_states": [
+   "closed",
+   "closed",
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 02062026",
+   "SPRINT 09062026",
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3904",
+  "num": "3904",
+  "summary": "Android: Crash Fix VI ",
+  "status": "Ready for Ship",
+  "cat": "Done",
+  "type": "Android",
+  "labels": [
+   "2026Ondemand",
+   "Haziran"
+  ],
+  "duedate": "2026-06-15",
+  "resolutiondate": "2026-06-18",
+  "priority": "Medium",
+  "assignee": "Fahri Furkan İlgen",
+  "sprint_count": 2,
+  "sprint_states": [
+   "closed",
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 09062026",
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3681",
+  "num": "3681",
+  "summary": "SKX APP Navigasyon Bar Başlık ",
+  "status": "Ready for Ship",
+  "cat": "Done",
+  "type": "Android",
+  "labels": [
+   "2026Ondemand",
+   "CX",
+   "Haziran"
+  ],
+  "duedate": "2026-06-18",
+  "resolutiondate": "2026-06-19",
+  "priority": "High",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3696",
+  "num": "3696",
+  "summary": "Brooks | Yönlendirme Status Kodunun Güncellenmesi",
+  "status": "Plan",
+  "cat": "To Do",
+  "type": "Brooks",
+  "labels": [
+   "2026Ondemand"
+  ],
+  "duedate": null,
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-2820",
+  "num": "2820",
+  "summary": "Brooks: Guest Checkout",
+  "status": "Block",
+  "cat": "To Do",
+  "type": "Brooks",
+  "labels": [
+   "2026Roadmap",
+   "Mayıs"
+  ],
+  "duedate": "2026-06-11",
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3989",
+  "num": "3989",
+  "summary": "Brooks: CL TRX E-Mail ve SMS İçerik Güncellenmesi",
+  "status": "ONLIVE",
+  "cat": "Done",
+  "type": "Brooks",
+  "labels": [
+   "2026Ondemand",
+   "CRM",
+   "Haziran"
+  ],
+  "duedate": "2026-06-16",
+  "resolutiondate": "2026-06-16",
+  "priority": "High",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-4020",
+  "num": "4020",
+  "summary": "Skechers Tetiklemeyen trx mailler",
+  "status": "Plan",
+  "cat": "To Do",
+  "type": "Bug",
+  "labels": [
+   "CRM"
+  ],
+  "duedate": null,
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3757",
+  "num": "3757",
+  "summary": "Klaud Kupon Kodu Raporun Boş gelmesi",
+  "status": "Plan",
+  "cat": "To Do",
+  "type": "Bug",
+  "labels": [
+   "2026Ondemand",
+   "Bug"
+  ],
+  "duedate": null,
+  "resolutiondate": null,
+  "priority": "High",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3920",
+  "num": "3920",
+  "summary": "Guest Checkout – Hesap Silme Sonrası Guest Loginde Otomatik Member Oluşması",
+  "status": "To Do",
+  "cat": "To Do",
+  "type": "Bug",
+  "labels": [
+   "Bug",
+   "Haziran"
+  ],
+  "duedate": "2026-06-08",
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3761",
+  "num": "3761",
+  "summary": "High5 raporlarında Vendor yapısına geçiş",
+  "status": "Plan",
+  "cat": "To Do",
+  "type": "High5",
+  "labels": [
+   "2026Roadmap",
+   "Haziran"
+  ],
+  "duedate": null,
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3702",
+  "num": "3702",
+  "summary": " [High5] Bing IndexNow Entegrasyonu - FE",
+  "status": "Rejected",
+  "cat": "To Do",
+  "type": "High5",
+  "labels": [
+   "2026Ondemand"
+  ],
+  "duedate": "2026-06-18",
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 2,
+  "sprint_states": [
+   "closed",
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 09062026",
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3827",
+  "num": "3827",
+  "summary": "Ürün detay sayfası olka badge'i eklenmesi",
+  "status": "To Do",
+  "cat": "To Do",
+  "type": "High5",
+  "labels": [],
+  "duedate": null,
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3879",
+  "num": "3879",
+  "summary": "PDP’ye “Marka Hikayesi / Marka Hakkında” Sekmesi Eklenmesi - SUP-778",
+  "status": "Ready for Ship",
+  "cat": "Done",
+  "type": "High5",
+  "labels": [
+   "2026Ondemand"
+  ],
+  "duedate": "2026-06-18",
+  "resolutiondate": "2026-06-19",
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3324",
+  "num": "3324",
+  "summary": "OKS Sipariş bazlı gönderim - Hunter",
+  "status": "Development",
+  "cat": "In Progress",
+  "type": "Hunter",
+  "labels": [
+   "2026Roadmap",
+   "Mayıs"
+  ],
+  "duedate": "2026-07-17",
+  "resolutiondate": null,
+  "priority": "Medium",
+  "assignee": "Hamza Komur",
+  "sprint_count": 7,
+  "sprint_states": [
+   "closed",
+   "closed",
+   "closed",
+   "active",
+   "closed",
+   "closed",
+   "closed"
+  ],
+  "sprint_names": [
+   "SPRINT 26052026",
+   "SPRINT 02062026",
+   "SPRINT 09062026",
+   "SPRINT 16062026",
+   "SPRINT 05052026",
+   "SPRINT 12052026",
+   "SPRINT 19052026"
+  ]
+ },
+ {
+  "key": "EWT-3951",
+  "num": "3951",
+  "summary": "iOS Checkout / Ödeme Sayfası Terk Anketi Entegrasyonu",
+  "status": "UAT",
+  "cat": "In Progress",
+  "type": "iOS",
+  "labels": [
+   "CRM"
+  ],
+  "duedate": "2026-06-12",
+  "resolutiondate": null,
+  "priority": "Medium",
+  "assignee": "Şitaberk Karali",
+  "sprint_count": 2,
+  "sprint_states": [
+   "closed",
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 09062026",
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3673",
+  "num": "3673",
+  "summary": "iOS: Filtreleme Sorunu ",
+  "status": "Block",
+  "cat": "To Do",
+  "type": "iOS",
+  "labels": [
+   "2026Roadmap",
+   "Haziran"
+  ],
+  "duedate": "2026-04-27",
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Fahri Furkan İlgen",
+  "sprint_count": 9,
+  "sprint_states": [
+   "closed",
+   "closed",
+   "closed",
+   "active",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed"
+  ],
+  "sprint_names": [
+   "SPRINT 26052026",
+   "SPRINT 02062026",
+   "SPRINT 09062026",
+   "SPRINT 16062026",
+   "SPRINT 28042026",
+   "SPRINT 05052026",
+   "SPRINT 12052026",
+   "SPRINT 19052026",
+   "SPRINT 21042026"
+  ]
+ },
+ {
+  "key": "EWT-613",
+  "num": "613",
+  "summary": "QR Ödeme | IOS",
+  "status": "Block",
+  "cat": "To Do",
+  "type": "iOS",
+  "labels": [
+   "2026Roadmap",
+   "Nisan",
+   "Sync"
+  ],
+  "duedate": null,
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Amir Daliri",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-4011",
+  "num": "4011",
+  "summary": "iOS: Filtre ve Sıralama Deneyimi UAT II",
+  "status": "Ready for Ship",
+  "cat": "Done",
+  "type": "iOS",
+  "labels": [
+   "2026Roadmap",
+   "Haziran"
+  ],
+  "duedate": "2026-06-19",
+  "resolutiondate": "2026-06-19",
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-4010",
+  "num": "4010",
+  "summary": " SKX APP Navigasyon Bar Başlık",
+  "status": "Ready for Ship",
+  "cat": "Done",
+  "type": "iOS",
+  "labels": [
+   "2026Ondemand",
+   "CX",
+   "Haziran"
+  ],
+  "duedate": "2026-06-18",
+  "resolutiondate": "2026-06-19",
+  "priority": "High",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3923",
+  "num": "3923",
+  "summary": "iOS: Meta CAPI Test Event Code",
+  "status": "Ready for Ship",
+  "cat": "Done",
+  "type": "iOS",
+  "labels": [
+   "2026Ondemand",
+   "Haziran"
+  ],
+  "duedate": "2026-06-04",
+  "resolutiondate": "2026-06-19",
+  "priority": "Medium",
+  "assignee": "Fahri Furkan İlgen",
+  "sprint_count": 3,
+  "sprint_states": [
+   "closed",
+   "closed",
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 02062026",
+   "SPRINT 09062026",
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3323",
+  "num": "3323",
+  "summary": "OKS Sipariş bazlı gönderim - Klaud",
+  "status": "Development",
+  "cat": "In Progress",
+  "type": "Klaud",
+  "labels": [
+   "2026Roadmap",
+   "Mayıs"
+  ],
+  "duedate": "2026-07-17",
+  "resolutiondate": null,
+  "priority": "Medium",
+  "assignee": "Hamza Komur",
+  "sprint_count": 7,
+  "sprint_states": [
+   "closed",
+   "closed",
+   "closed",
+   "active",
+   "closed",
+   "closed",
+   "closed"
+  ],
+  "sprint_names": [
+   "SPRINT 26052026",
+   "SPRINT 02062026",
+   "SPRINT 09062026",
+   "SPRINT 16062026",
+   "SPRINT 05052026",
+   "SPRINT 12052026",
+   "SPRINT 19052026"
+  ]
+ },
+ {
+  "key": "EWT-3929",
+  "num": "3929",
+  "summary": "Klaud: Cart & Checkout Event II",
+  "status": "Ready for Ship",
+  "cat": "Done",
+  "type": "Klaud",
+  "labels": [
+   "2026Ondemand",
+   "Haziran"
+  ],
+  "duedate": "2026-06-17",
+  "resolutiondate": "2026-06-18",
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3863",
+  "num": "3863",
+  "summary": "OLKA Space raporları için servis konfigürasyonları",
+  "status": "Done",
+  "cat": "Done",
+  "type": "Olka IT",
+  "labels": [
+   "2026Roadmap",
+   "Mayıs",
+   "OLKAIT"
+  ],
+  "duedate": "2026-05-21",
+  "resolutiondate": "2026-06-23",
+  "priority": "Medium",
+  "assignee": "Mehmet Can Ozdemir",
+  "sprint_count": 5,
+  "sprint_states": [
+   "closed",
+   "closed",
+   "closed",
+   "active",
+   "closed"
+  ],
+  "sprint_names": [
+   "SPRINT 26052026",
+   "SPRINT 02062026",
+   "SPRINT 09062026",
+   "SPRINT 16062026",
+   "SPRINT 19052026"
+  ]
+ },
+ {
+  "key": "EWT-3862",
+  "num": "3862",
+  "summary": "NEPTUN Space raporları için servis konfigürasyonları",
+  "status": "Done",
+  "cat": "Done",
+  "type": "Olka IT",
+  "labels": [
+   "2026Roadmap",
+   "Mayıs",
+   "OLKAIT"
+  ],
+  "duedate": "2026-05-21",
+  "resolutiondate": "2026-06-23",
+  "priority": "Medium",
+  "assignee": "Mehmet Can Ozdemir",
+  "sprint_count": 5,
+  "sprint_states": [
+   "closed",
+   "closed",
+   "closed",
+   "active",
+   "closed"
+  ],
+  "sprint_names": [
+   "SPRINT 26052026",
+   "SPRINT 02062026",
+   "SPRINT 09062026",
+   "SPRINT 16062026",
+   "SPRINT 19052026"
+  ]
+ },
+ {
+  "key": "EWT-3857",
+  "num": "3857",
+  "summary": "JUPITER Space raporları için servis konfigürasyonları",
+  "status": "Done",
+  "cat": "Done",
+  "type": "Olka IT",
+  "labels": [
+   "2026Roadmap",
+   "Mayıs",
+   "OLKAIT"
+  ],
+  "duedate": "2026-05-21",
+  "resolutiondate": "2026-06-23",
+  "priority": "Medium",
+  "assignee": "Mehmet Can Ozdemir",
+  "sprint_count": 5,
+  "sprint_states": [
+   "closed",
+   "closed",
+   "closed",
+   "active",
+   "closed"
+  ],
+  "sprint_names": [
+   "SPRINT 26052026",
+   "SPRINT 02062026",
+   "SPRINT 09062026",
+   "SPRINT 16062026",
+   "SPRINT 19052026"
+  ]
+ },
+ {
+  "key": "EWT-3979",
+  "num": "3979",
+  "summary": "Skechers: Filtre Deneyimi FE",
+  "status": "UAT",
+  "cat": "In Progress",
+  "type": "Skechers",
+  "labels": [
+   "2026Roadmap",
+   "Haziran"
+  ],
+  "duedate": "2026-06-19",
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 2,
+  "sprint_states": [
+   "closed",
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 09062026",
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3949",
+  "num": "3949",
+  "summary": "Checkout / Ödeme Sayfası Terk Anketi Entegrasyonu(WEB-WEB MOBIL)",
+  "status": "UAT",
+  "cat": "In Progress",
+  "type": "Skechers",
+  "labels": [
+   "CRM"
+  ],
+  "duedate": "2026-06-18",
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3926",
+  "num": "3926",
+  "summary": "Skechers x Personaclick Kategori Akmama Sorunu (Kritik)",
+  "status": "Rejected",
+  "cat": "To Do",
+  "type": "Skechers",
+  "labels": [
+   "2026Ondemand",
+   "Haziran"
+  ],
+  "duedate": null,
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3854",
+  "num": "3854",
+  "summary": "Skechers: CDP  Verisi - Bulk Yükleme & Saatlik Periyodik Job",
+  "status": "UAT",
+  "cat": "In Progress",
+  "type": "Skechers",
+  "labels": [
+   "2026Roadmap",
+   "CRM"
+  ],
+  "duedate": "2026-06-15",
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 2,
+  "sprint_states": [
+   "closed",
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 09062026",
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3805",
+  "num": "3805",
+  "summary": "Skechers HCAPI Kurumsal Fatura - Android",
+  "status": "Review",
+  "cat": "In Progress",
+  "type": "Skechers",
+  "labels": [
+   "2026Roadmap",
+   "Haziran"
+  ],
+  "duedate": "2026-06-09",
+  "resolutiondate": null,
+  "priority": "Medium",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 3,
+  "sprint_states": [
+   "closed",
+   "closed",
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 02062026",
+   "SPRINT 09062026",
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3604",
+  "num": "3604",
+  "summary": "OKS Sipariş Bazlı Çıkışın Sağlanması (Yeni Omste) - Part 2",
+  "status": "UAT",
+  "cat": "In Progress",
+  "type": "Skechers",
+  "labels": [
+   "2026Roadmap"
+  ],
+  "duedate": "2026-07-09",
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 11,
+  "sprint_states": [
+   "closed",
+   "closed",
+   "closed",
+   "active",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed"
+  ],
+  "sprint_names": [
+   "SPRINT 26052026",
+   "SPRINT 02062026",
+   "SPRINT 09062026",
+   "SPRINT 16062026",
+   "SPRINT 07042026",
+   "SPRINT 13042026",
+   "SPRINT 28042026",
+   "SPRINT 05052026",
+   "SPRINT 12052026",
+   "SPRINT 19052026",
+   "SPRINT 21042026"
+  ]
+ },
+ {
+  "key": "EWT-3543",
+  "num": "3543",
+  "summary": "Pavo cihazlarına uygulamanın başarılı şekilde entegre edilmesi - 507",
+  "status": "Review",
+  "cat": "In Progress",
+  "type": "Skechers",
+  "labels": [],
+  "duedate": "2026-04-14",
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Fahri Furkan İlgen",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-2520",
+  "num": "2520",
+  "summary": "Skechers da detaylı sipariş raporuna İlk App Sipariş Bilgisinin Eklenmesi - Analiz & Çözüm",
+  "status": "UAT",
+  "cat": "In Progress",
+  "type": "Skechers",
+  "labels": [],
+  "duedate": "2026-04-17",
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 19,
+  "sprint_states": [
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "active",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed"
+  ],
+  "sprint_names": [
+   "SPRINT 21042026",
+   "SPRINT 26052026",
+   "SPRINT 02062026",
+   "SPRINT 16022026",
+   "SPRINT 09062026",
+   "SPRINT 23022026",
+   "SPRINT 16062026",
+   "SPRINT 08122025",
+   "SPRINT 23032026",
+   "SPRINT 22122025",
+   "SPRINT 29122025",
+   "SPRINT 12012026",
+   "SPRINT 13042026",
+   "SPRINT 0501026",
+   "SPRINT 05052026",
+   "SPRINT 12052026",
+   "SPRINT 19052026",
+   "SPRINT 19012026",
+   "SPRINT 26012026"
+  ]
+ },
+ {
+  "key": "EWT-2410",
+  "num": "2410",
+  "summary": "HUB İade Kargo Statülerinin İletişim Tetiklemesi Hk. - Analiz + Çözüm",
+  "status": "UAT",
+  "cat": "In Progress",
+  "type": "Skechers",
+  "labels": [
+   "2026Roadmap",
+   "Haziran"
+  ],
+  "duedate": "2026-06-23",
+  "resolutiondate": null,
+  "priority": "High",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3829",
+  "num": "3829",
+  "summary": "Trendyol Menşei (Origin) Bilgisi Tanımlama Süreçlerindeki Değişiklik Hakkında",
+  "status": "Development",
+  "cat": "In Progress",
+  "type": "Skechers",
+  "labels": [
+   "2026Ondemand"
+  ],
+  "duedate": null,
+  "resolutiondate": null,
+  "priority": "High",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3322",
+  "num": "3322",
+  "summary": "OKS Sipariş bazlı gönderim - Skechers",
+  "status": "Development",
+  "cat": "In Progress",
+  "type": "Skechers",
+  "labels": [
+   "2026Roadmap",
+   "Mayıs"
+  ],
+  "duedate": "2026-07-17",
+  "resolutiondate": null,
+  "priority": "Medium",
+  "assignee": "Hamza Komur",
+  "sprint_count": 7,
+  "sprint_states": [
+   "closed",
+   "closed",
+   "closed",
+   "active",
+   "closed",
+   "closed",
+   "closed"
+  ],
+  "sprint_names": [
+   "SPRINT 26052026",
+   "SPRINT 02062026",
+   "SPRINT 09062026",
+   "SPRINT 16062026",
+   "SPRINT 05052026",
+   "SPRINT 12052026",
+   "SPRINT 19052026"
+  ]
+ },
+ {
+  "key": "EWT-679",
+  "num": "679",
+  "summary": "OKS Sipariş Bazlı Çıkışın Sağlanması (Yeni Omste)-Part1",
+  "status": "Development",
+  "cat": "In Progress",
+  "type": "Skechers",
+  "labels": [
+   "2026Roadmap"
+  ],
+  "duedate": "2026-06-11",
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 16,
+  "sprint_states": [
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "active",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed",
+   "closed"
+  ],
+  "sprint_names": [
+   "SPRINT 21042026",
+   "SPRINT 26052026",
+   "SPRINT 02062026",
+   "SPRINT 09062026",
+   "SPRINT 23022026",
+   "OLKA SPRINT Q3 1/3",
+   "SPRINT 25112025",
+   "SPRINT 16062026",
+   "SPRINT 02032026",
+   "SPRINT 30032026",
+   "SPRINT 07042026",
+   "SPRINT 13042026",
+   "SPRINT 28042026",
+   "SPRINT 05052026",
+   "SPRINT 12052026",
+   "SPRINT 19052026"
+  ]
+ },
+ {
+  "key": "EWT-3937",
+  "num": "3937",
+  "summary": "FAZ 2 Search Bar'a \"Ask AI\" Butonu Entegrasyonu- LOOPS AI",
+  "status": "Done",
+  "cat": "Done",
+  "type": "Skechers",
+  "labels": [],
+  "duedate": "2026-06-08",
+  "resolutiondate": "2026-06-23",
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 3,
+  "sprint_states": [
+   "closed",
+   "closed",
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 02062026",
+   "SPRINT 09062026",
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3910",
+  "num": "3910",
+  "summary": "FAZ 1 Loops AI Assistant Chatbot POC Entegrasyonu / Skechers Pre-Prod",
+  "status": "Done",
+  "cat": "Done",
+  "type": "Skechers",
+  "labels": [],
+  "duedate": "2026-06-04",
+  "resolutiondate": "2026-06-23",
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 3,
+  "sprint_states": [
+   "closed",
+   "closed",
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 02062026",
+   "SPRINT 09062026",
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3907",
+  "num": "3907",
+  "summary": "Hepsijet Kargo Merchant Kayıtlarında Zorunlu Parametrelerin Güncellenmesi ve Teknik Düzenlemeler",
+  "status": "Done",
+  "cat": "Done",
+  "type": "Skechers",
+  "labels": [
+   "2026Ondemand",
+   "Temmuz"
+  ],
+  "duedate": "2026-06-16",
+  "resolutiondate": "2026-06-16",
+  "priority": "High",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3887",
+  "num": "3887",
+  "summary": "EU Battery Law - Landing Page Analiz | skechers.com.tr/EUbatteryinformation",
+  "status": "Done",
+  "cat": "Done",
+  "type": "Skechers",
+  "labels": [
+   "2026Ondemand"
+  ],
+  "duedate": "2026-06-16",
+  "resolutiondate": "2026-06-15",
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3135",
+  "num": "3135",
+  "summary": "Nebime giden servisler çok yavaş bakılmalı",
+  "status": "Done",
+  "cat": "Done",
+  "type": "Skechers",
+  "labels": [
+   "2026Ondemand"
+  ],
+  "duedate": "2026-06-08",
+  "resolutiondate": "2026-06-08",
+  "priority": "Highest",
+  "assignee": "Fahri Furkan İlgen",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-4036",
+  "num": "4036",
+  "summary": "Attribute Düzenlemeleri",
+  "status": "Ready for Ship",
+  "cat": "Done",
+  "type": "Skechers",
+  "labels": [
+   "2026Ondemand"
+  ],
+  "duedate": "2026-06-22",
+  "resolutiondate": "2026-06-23",
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3980",
+  "num": "3980",
+  "summary": "Web Siparişi Olup İnceleme Onayda Üretilen RMA Kod Düzenlemesi",
+  "status": "Ready for Ship",
+  "cat": "Done",
+  "type": "Skechers",
+  "labels": [
+   "2026Ondemand",
+   "Haziran",
+   "İnceleme"
+  ],
+  "duedate": "2026-06-17",
+  "resolutiondate": "2026-06-17",
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3838",
+  "num": "3838",
+  "summary": "Hepsijet Kargo Token Servis Değişikliği Güncellemesi",
+  "status": "Ready for Ship",
+  "cat": "Done",
+  "type": "Skechers",
+  "labels": [
+   "2026Ondemand",
+   "Haziran"
+  ],
+  "duedate": "2026-06-16",
+  "resolutiondate": "2026-06-16",
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3814",
+  "num": "3814",
+  "summary": "[Emarsys] Web Behaviour & Command Analiz Bulguları",
+  "status": "Ready for Ship",
+  "cat": "Done",
+  "type": "Skechers",
+  "labels": [
+   "CRM"
+  ],
+  "duedate": "2026-06-23",
+  "resolutiondate": "2026-06-23",
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3970",
+  "num": "3970",
+  "summary": "“Ürün Detayı” att ID 280 - calculated attribute düzenlemesi",
+  "status": "ONLIVE",
+  "cat": "Done",
+  "type": "Skechers",
+  "labels": [
+   "2026Ondemand"
+  ],
+  "duedate": "2026-06-11",
+  "resolutiondate": "2026-06-19",
+  "priority": "Highest",
+  "assignee": "Tahir Polat Özdemir",
+  "sprint_count": 2,
+  "sprint_states": [
+   "closed",
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 09062026",
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3798",
+  "num": "3798",
+  "summary": "Steve Madden Localization",
+  "status": "Block",
+  "cat": "To Do",
+  "type": "Steve Madden",
+  "labels": [
+   "2026Roadmap",
+   "Temmuz"
+  ],
+  "duedate": "2026-07-23",
+  "resolutiondate": null,
+  "priority": "Medium",
+  "assignee": "Şitaberk Karali",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3995",
+  "num": "3995",
+  "summary": "MP Yorumlarının ürün detayda gösterimi - Skechers",
+  "status": "To Do",
+  "cat": "To Do",
+  "type": "Tasarım",
+  "labels": [
+   "2026Roadmap"
+  ],
+  "duedate": null,
+  "resolutiondate": null,
+  "priority": "Medium",
+  "assignee": "Mehmet Can Ozdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3836",
+  "num": "3836",
+  "summary": "High5 PLP Redesign ",
+  "status": "Done",
+  "cat": "Done",
+  "type": "Tasarım",
+  "labels": [
+   "2026Ondemand",
+   "Haziran"
+  ],
+  "duedate": "2026-05-25",
+  "resolutiondate": "2026-06-18",
+  "priority": "Highest",
+  "assignee": "Şitaberk Karali",
+  "sprint_count": 2,
+  "sprint_states": [
+   "closed",
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 09062026",
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3925",
+  "num": "3925",
+  "summary": "High5 - Vendor management test süreçleri",
+  "status": "UAT",
+  "cat": "In Progress",
+  "type": "Task",
+  "labels": [],
+  "duedate": null,
+  "resolutiondate": null,
+  "priority": "Medium",
+  "assignee": "Mehmet Can Ozdemir",
+  "sprint_count": 3,
+  "sprint_states": [
+   "closed",
+   "closed",
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 02062026",
+   "SPRINT 09062026",
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3858",
+  "num": "3858",
+  "summary": "TÜM MARKALAR TRX HEALTH CHECK-TEST SÜRECİ",
+  "status": "UAT",
+  "cat": "In Progress",
+  "type": "Task",
+  "labels": [],
+  "duedate": null,
+  "resolutiondate": null,
+  "priority": "Medium",
+  "assignee": "Zeynep Burcu Topçu Güleryüz",
+  "sprint_count": 5,
+  "sprint_states": [
+   "closed",
+   "closed",
+   "closed",
+   "active",
+   "closed"
+  ],
+  "sprint_names": [
+   "SPRINT 26052026",
+   "SPRINT 02062026",
+   "SPRINT 09062026",
+   "SPRINT 16062026",
+   "SPRINT 19052026"
+  ]
+ },
+ {
+  "key": "EWT-3277",
+  "num": "3277",
+  "summary": "AI Semantic Search Entegrasyonu - Skechers",
+  "status": "UAT",
+  "cat": "In Progress",
+  "type": "Task",
+  "labels": [
+   "2026Roadmap",
+   "Haziran"
+  ],
+  "duedate": null,
+  "resolutiondate": null,
+  "priority": "Medium",
+  "assignee": "Zeynep Burcu Topçu Güleryüz",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-4022",
+  "num": "4022",
+  "summary": "INB: Hunter Navigation Click Event Kurulumu II (Mobil)",
+  "status": "To Do",
+  "cat": "To Do",
+  "type": "Task",
+  "labels": [
+   "2026Ondemand",
+   "Haziran"
+  ],
+  "duedate": "2026-06-10",
+  "resolutiondate": null,
+  "priority": "High",
+  "assignee": "Şitaberk Karali",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3938",
+  "num": "3938",
+  "summary": "TÜM markalar test ortamlarında amazondan gelen trx maillerin kontrolü",
+  "status": "To Do",
+  "cat": "To Do",
+  "type": "Task",
+  "labels": [
+   "CRM"
+  ],
+  "duedate": null,
+  "resolutiondate": null,
+  "priority": "Medium",
+  "assignee": "Atanmamış",
+  "sprint_count": 2,
+  "sprint_states": [
+   "closed",
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 09062026",
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3871",
+  "num": "3871",
+  "summary": "Android webview checkout drop",
+  "status": "To Do",
+  "cat": "To Do",
+  "type": "Task",
+  "labels": [],
+  "duedate": null,
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Mehmet Can Ozdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3870",
+  "num": "3870",
+  "summary": "Klaud checkouttaki drop'un araştırılması - Safari",
+  "status": "To Do",
+  "cat": "To Do",
+  "type": "Task",
+  "labels": [],
+  "duedate": null,
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Mehmet Can Ozdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3867",
+  "num": "3867",
+  "summary": "High5 compare modülü geliştirmesi ",
+  "status": "To Do",
+  "cat": "To Do",
+  "type": "Task",
+  "labels": [],
+  "duedate": null,
+  "resolutiondate": null,
+  "priority": "Medium",
+  "assignee": "Mehmet Can Ozdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3864",
+  "num": "3864",
+  "summary": "Checkoutta yeni telefon numarası eklendiğinde OTP yapılması ",
+  "status": "To Do",
+  "cat": "To Do",
+  "type": "Task",
+  "labels": [],
+  "duedate": null,
+  "resolutiondate": null,
+  "priority": "Medium",
+  "assignee": "Mehmet Can Ozdemir",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3844",
+  "num": "3844",
+  "summary": "Marka / Ürün Yetkinlik matrisi",
+  "status": "To Do",
+  "cat": "To Do",
+  "type": "Task",
+  "labels": [
+   "2026Ondemand",
+   "Haziran"
+  ],
+  "duedate": "2026-06-12",
+  "resolutiondate": null,
+  "priority": "High",
+  "assignee": "Şitaberk Karali",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3843",
+  "num": "3843",
+  "summary": "Sprint raporlama",
+  "status": "To Do",
+  "cat": "To Do",
+  "type": "Task",
+  "labels": [],
+  "duedate": null,
+  "resolutiondate": null,
+  "priority": "Highest",
+  "assignee": "Zeynep Burcu Topçu Güleryüz",
+  "sprint_count": 2,
+  "sprint_states": [
+   "closed",
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 09062026",
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3860",
+  "num": "3860",
+  "summary": "SEMANTIC SEARCH- VENDOR TEST SURECİ",
+  "status": "Development",
+  "cat": "In Progress",
+  "type": "Task",
+  "labels": [],
+  "duedate": null,
+  "resolutiondate": null,
+  "priority": "Medium",
+  "assignee": "Zeynep Burcu Topçu Güleryüz",
+  "sprint_count": 5,
+  "sprint_states": [
+   "closed",
+   "closed",
+   "closed",
+   "active",
+   "closed"
+  ],
+  "sprint_names": [
+   "SPRINT 26052026",
+   "SPRINT 02062026",
+   "SPRINT 09062026",
+   "SPRINT 16062026",
+   "SPRINT 19052026"
+  ]
+ },
+ {
+  "key": "EWT-4023",
+  "num": "4023",
+  "summary": "Brooks: Navigation Click Event Kurulumu II (Mobil)",
+  "status": "Done",
+  "cat": "Done",
+  "type": "Task",
+  "labels": [],
+  "duedate": null,
+  "resolutiondate": "2026-06-19",
+  "priority": "Medium",
+  "assignee": "Şitaberk Karali",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-4017",
+  "num": "4017",
+  "summary": "Boosmart: Meta CAPI Test",
+  "status": "Done",
+  "cat": "Done",
+  "type": "Task",
+  "labels": [
+   "2026Ondemand",
+   "Haziran"
+  ],
+  "duedate": "2026-06-19",
+  "resolutiondate": "2026-06-19",
+  "priority": "Medium",
+  "assignee": "Şitaberk Karali",
+  "sprint_count": 1,
+  "sprint_states": [
+   "active"
+  ],
+  "sprint_names": [
+   "SPRINT 16062026"
+  ]
+ },
+ {
+  "key": "EWT-3861",
+  "num": "3861",
+  "summary": "HUNTER TRX- POSTMAN TEST SURECİ",
+  "status": "Done",
+  "cat": "Done",
+  "type": "Task",
+  "labels": [],
+  "duedate": null,
+  "resolutiondate": "2026-06-23",
+  "priority": "Medium",
+  "assignee": "Zeynep Burcu Topçu Güleryüz",
+  "sprint_count": 5,
+  "sprint_states": [
+   "closed",
+   "closed",
+   "closed",
+   "active",
+   "closed"
+  ],
+  "sprint_names": [
+   "SPRINT 26052026",
+   "SPRINT 02062026",
+   "SPRINT 09062026",
+   "SPRINT 16062026",
+   "SPRINT 19052026"
+  ]
+ }
+]
